@@ -1,7 +1,7 @@
 # 🌸 Iris Flower Classification - Machine Learning Project
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/siddharthjunior7-ux/iris-ml-classification/blob/main/quick%20training%20on%20iris.ipynb)
+(https://colab.research.google.com/github/siddharthjonior7-ux/iris-ml-classification/blob/main/quick%20training%20on%20iris.ipynb)
 
 This project demonstrates a simple Machine Learning model trained on the famous **Iris dataset** to classify iris flowers into different species.
 
